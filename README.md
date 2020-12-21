@@ -22,3 +22,5 @@
 Переключимся обратно на master и попробуем объединить ветки, но получим ошибку
 ![Branches](screenshots/7.png)
 
+Исправляем конфликт в файле mergefile.txt
+[Fix](screenshots/8.png)
