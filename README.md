@@ -55,3 +55,6 @@
 
 Делаем коммит и пушим на удаленный репозиторий
 ![Push commit](screenshots/18.png)
+
+Финальный результат команды git log
+![Git log](screenshots/19.png)
